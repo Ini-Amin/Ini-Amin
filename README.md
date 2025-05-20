@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ini-Amin (I am Amin)
 - 👀 I’m interested in Art and Website development
 - 🌱 I’m currently learning HTML 
-- 📫 How to reach me? email me @lithium7b@gmail.com
+- 📫 How to reach me? email me lithium7b@gmail.com
 - ⚡ Fun fact: I fall asleep faster after drinking coffee than I drinking tea
 
 <!---
