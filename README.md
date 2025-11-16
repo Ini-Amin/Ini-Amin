@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ini-Amin (I am Amin)
 - 👀 I’m interested in Art and Website development
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning CSS 
 - 📫 How to reach me? email me lithium7b@gmail.com
-- ⚡ Fun fact: I fall asleep faster after drinking coffee than I drinking tea
+- WLEEEE
 - Vibe Coding! Jaya Jaya Jaya!
 <!---
 Ini-Amin/Ini-Amin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
