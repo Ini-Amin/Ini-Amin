@@ -1,7 +1,9 @@
+# Hi there 👋
+
 ## 📊 GitHub Stats
 
-![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ini-Amin&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ini-Amin&show_icons=true&theme=transparent&cache_seconds=1800)
 
+## 🐍 Snake Animation
 
-
-![Snake animation](https://github.com/Ini-Amin/Ini-Amin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ini-Amin/Ini-Amin/output/github-contribution-grid-snake.svg)
